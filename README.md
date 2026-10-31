@@ -15,3 +15,5 @@ javascript:(function()%7Bvar d%3Dfalse%3Bvar o%3DXMLHttpRequest.prototype.setReq
 2. Click the bookmark.
 3. Click anywhere in Discord (channel, server, etc.).
 4. Token appears and is able to be copied.
+
+**Adding image examples soon**
